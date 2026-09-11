@@ -1,16 +1,5 @@
-# Introduction to Git and GitHub
+# GitHub Final Capstone Project
 
-## Simple Interest Calculator
+[![Category: Coursework](https://img.shields.io/badge/Category-DevOps%20Capstone-blue.svg)]()
 
-A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
-
-```
-Input:
-   p, principal amount
-   t, time period in years
-   r, annual rate of interest
-Output
-   simple interest = p*t*r
-```
-
-_© 2023 XYZ, Inc._
+> Final capstone repository illustrating Git version control best practices, GitHub Actions workflow pipelines, and release branch management.
